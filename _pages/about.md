@@ -14,4 +14,4 @@ I am fortunate to have participated in national teacher capacity improvement pro
 
 You can find my resume here: Liu Zhenfa's resume.
 
-[Email](mailto:cn3zfa@126.com) / [Github](https://github.com/git201707) / [Wechat](../images/wechat.jpg) / [CSDN]([叫声大哥不迷路-CSDN博客](https://blog.csdn.net/liuzhenfa110))
+[Email](mailto:cn3zfa@126.com) / [Github](https://github.com/git201707) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/liuzhenfa110)
